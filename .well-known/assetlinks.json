@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.drolaristocrat1227.invoice",
+    "sha256_cert_fingerprints": ["B5:80:7C:18:99:B0:1F:DB:34:3D:C2:F3:9B:7E:FB:15:FB:4F:14:5C:03:AE:FA:2B:29:64:7A:4B:90:FB:C3:19"]
+  }
+}]
